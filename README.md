@@ -1,4 +1,3 @@
 # CreditCardApprovalPredictionModel
-Data Science class final project using machine learning and the data science lifecycle.
 
-You can read everything about it in the "Findings" document.
+Read more about the project in the "Findings" document.
